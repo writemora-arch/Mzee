@@ -1,0 +1,1 @@
+{ "name": "mzee", "version": "1.0.0", "description": "M-zee chemistry education store + admin", "main": "server.js", "scripts": { "start": "node server.js" }, "engines": { "node": ">=18" } }
